@@ -1,5 +1,5 @@
 body{
-    background-image:url("https://img.freepik.com/premium-photo/top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.jpg");
+    background-image:url("https://tse1.mm.bing.net/th?id=OIP.xuuT-_xKi-YtmIoi0_IZYwAAAA&pid=Api&P=0&h=180");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -34,6 +34,7 @@ body{
     color:yellowgreen;
 
 }
+<<<<<<< HEAD
 .names{
     color: rgb(229, 119, 235);
     margin-left: 300px;
@@ -63,5 +64,7 @@ body{
     margin-left: 10%;
     border: 5px,white,solid;
     border-radius: 5px;
+    font-size: 50px;
+    font-style: italic;
     margin: 10px;   
 }
