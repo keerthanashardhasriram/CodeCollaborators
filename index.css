@@ -34,26 +34,3 @@ body{
     color:yellowgreen;
 
 }
-.names{
-    color: rgb(229, 119, 235);
-    margin-left: 300px;
-    font-size: 50px;
-    font-style: italic;
-    color:rgb(131, 187, 231);
-
-}
-.me{
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: 10%;
-    border: 5px,rgb(108, 170, 246),solid;
-    border-radius: 5px;
-    margin: 10px;
-}
-.pictures{
-    height: 300px;
-    width: 300px;
-    margin-left: 200px;
-    border-radius: 100px;
-    margin: 100px,50px,100px,50px;
-}
