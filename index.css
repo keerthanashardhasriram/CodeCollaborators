@@ -44,6 +44,10 @@ body{
     text-align: center;
 
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 8dd6e14cfe55eee7fde50de170fae1793873fc7a
 .names{
     color: rgb(229, 119, 235);
     font-size: 30px;
@@ -69,14 +73,4 @@ body{
     margin-left: 200px;
     border-radius: 100px;
     margin: 100px,50px,100px,50px;
-}
-.ve{
-  display: flex;
-    flex-wrap: wrap;
-    margin-left: 10%;
-    border: 5px,white,solid;
-    border-radius: 5px;
-    font-size: 50px;
-    font-style: italic;
-    margin: 10px;   
 }
