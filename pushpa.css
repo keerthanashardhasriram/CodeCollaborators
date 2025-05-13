@@ -1,0 +1,66 @@
+/* Apply a gradient background and cleaner layout */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #f5f7fa, #c3cfe2);
+  color: #333;
+}
+
+/* Header with a bold color and shadow */
+header {
+  background: linear-gradient(to right, #1f3c88, #2e86de);
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+  margin: 0 0 10px;
+}
+
+header a {
+  color: #f0e68c;
+  text-decoration: none;
+}
+
+section {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px 30px;
+  max-width: 900px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Section headings */
+h2 {
+  color: #1f3c88;
+  margin-top: 0;
+}
+
+/* Lists inside sections */
+ul {
+  padding-left: 20px;
+}
+
+a {
+  color: #2e86de;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  section {
+    padding: 15px 20px;
+  }
+
+  header {
+    padding: 20px 10px;
+  }
+}
