@@ -1,5 +1,5 @@
 body{
-    background-image:url("https://img.freepik.com/premium-photo/top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.jpg");
+    background-image:url("https://tse1.mm.bing.net/th?id=OIP.xuuT-_xKi-YtmIoi0_IZYwAAAA&pid=Api&P=0&h=180");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,29 +8,69 @@ body{
     text-decoration: none;
     text-transform: capitalize;
     color:rgb(54, 53, 53);
-    background-color:rgb(166, 219, 228);
+    background-color:brown;
+    font-size: 30px;
+    padding: 3px;
+    margin: 80px;
+    border-radius: 20px;
 }
-.members{
+
+.sub-container{
+    width: fit-content  ;
     display: flex;
     flex-wrap: wrap;
+    
+}
+.members{
+    
     margin-left: 10%;
     border: 5px,white,solid;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
+    height: 400px;
 }
 
 .image{
     height: 300px;
     width: 300px;
-    margin-left: 200px;
     border-radius: 200px;
-    margin: 100px,50px,100px,50px;
+    margin-left: 10px;
+    margin-top: 30px;
 }
 .name{
     color: white;
-    margin-left: 300px;
-    font-size: 50px;
-    font-style: italic;
-    color:yellowgreen;
+    font-size: 20px;
+    color:black;
+    text-align: center;
 
+}
+<<<<<<< HEAD
+
+=======
+>>>>>>> 8dd6e14cfe55eee7fde50de170fae1793873fc7a
+.names{
+    color: rgb(229, 119, 235);
+    font-size: 30px;
+    font-style: italic;
+    color:rgb(131, 187, 231);
+    h3{
+    text-align: center;
+    margin-left: 100px;
+    }
+
+}
+.me{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    border: 5px,rgb(108, 170, 246),solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+.pictures{
+    height: 300px;
+    width: 300px;
+    margin-left: 200px;
+    border-radius: 100px;
+    margin: 100px,50px,100px,50px;
 }

@@ -39,11 +39,11 @@ header {
   }
 
 
-/* Keep the same hero CSS */
+
 .hero {
     background-color: #282828;
     color: #fff;
-    padding: 80px 0;
+    padding: 50px 0;
   }
   
   .hero .container {
