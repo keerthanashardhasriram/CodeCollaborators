@@ -16,16 +16,16 @@ body{
 }
 
 .sub-container{
+    width: fit-content  ;
     display: flex;
     flex-wrap: wrap;
     
 }
 .members{
-    display: flex;
-    flex-wrap: wrap;
+    
     margin-left: 10%;
     border: 5px,white,solid;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
     height: 400px;
 }
@@ -34,21 +34,25 @@ body{
     height: 300px;
     width: 300px;
     border-radius: 200px;
-    margin: 100px,50px,100px,50px;
+    margin-left: 10px;
+    margin-top: 30px;
 }
 .name{
     color: white;
-    font-size: 50px;
-    color:yellowgreen;
+    font-size: 20px;
+    color:black;
+    text-align: center;
 
 }
-<<<<<<< HEAD
 .names{
     color: rgb(229, 119, 235);
-    margin-left: 300px;
-    font-size: 50px;
+    font-size: 30px;
     font-style: italic;
     color:rgb(131, 187, 231);
+    h3{
+    text-align: center;
+    margin-left: 100px;
+    }
 
 }
 .me{
